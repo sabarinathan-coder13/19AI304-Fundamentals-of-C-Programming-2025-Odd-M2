@@ -101,7 +101,8 @@ int main() {
 }
 ```
 # Output:
-<img width="847" height="541" alt="Screenshot 2025-12-26 202915" src="https://github.com/user-attachments/assets/72d51662-8730-40b4-a758-ee0dee0f0c10" />
+<img width="243" height="172" alt="Screenshot 2025-12-26 204708" src="https://github.com/user-attachments/assets/559c3da9-b74f-47b6-95b1-f5103582aa2f" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -153,7 +154,8 @@ int main() {
 }
 ```
 # Output:
-<img width="243" height="172" alt="Screenshot 2025-12-26 204708" src="https://github.com/user-attachments/assets/55190c07-d018-4a83-bd03-908eed629b77" />
+<img width="271" height="250" alt="Screenshot 2025-12-26 203742" src="https://github.com/user-attachments/assets/4b246de8-2850-4182-874f-4f4fa8396023" />
+
 
 
 # Result: 
